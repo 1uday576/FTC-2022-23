@@ -1,6 +1,6 @@
 # FTC-2022-23
 
-This is the code used for the RGB 22075 robot in the FIRST Tech Challenge (FTC) during the 2022-23 season. The code is separated into two main parts: driver control and autonomous. Driver control was my responsibility and written entirely by me. The code for driver control focused on allowing the two drivers to control the functions of the robot to score points. These functions include:
+This is the code used for the RGB 22075 robot in the FIRST Tech Challenge (FTC) during the 2022-23 season written by me and my partner Andrew Jiang. The code is separated into two main parts: driver control and autonomous. Driver control was my responsibility and written entirely by me. The code for driver control focused on allowing the two drivers to control the functions of the robot to score points. These functions include:
 
   -	Moving the robot
   -	Lifting the arm up and down
